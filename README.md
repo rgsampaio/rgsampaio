@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A0A4AB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Ricardo.;Unindo+lógica+e+criatividade.;Front-End+Developer." alt="Typing SVG" />
+  <h1>Olá, eu sou o Ricardo.</h1>
 </div>
 
 <div align="center">
@@ -50,7 +50,7 @@ Minha stack é focada em dominar a base da linguagem e aplicar frameworks com co
 <br/>
 
 <div align="center">
-  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-galdino-de-sampaio/" target="_blank">
     <img src="https://img.shields.io/badge/Conecte--se_comigo-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ricardosampaiocontato@gmail.com">
